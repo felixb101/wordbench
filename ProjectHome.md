@@ -1,0 +1,1 @@
+Wordbench is web based document composition tool that allows the generation of various document formats (PDF, AFP, RTF and PostScript) supported by the Apache Formatting Objects Processor (FOP).
